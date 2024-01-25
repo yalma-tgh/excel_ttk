@@ -29,3 +29,7 @@ This Python script creates a graphical user interface (GUI) using the Tkinter li
 - The initial data in the Excel file is loaded into the Tkinter TreeView upon startup.
 
 Feel free to customize the script based on your needs. If you encounter any issues or have questions, please refer to the documentation of Tkinter and openpyxl for further assistance.
+
+## Dashboard Demo
+
+![Demo](https://github.com/yalma-tgh/excel_ttk/blob/main/demo.gif)
